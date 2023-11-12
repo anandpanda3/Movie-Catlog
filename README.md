@@ -36,6 +36,5 @@ Start: It starts our app with the express server, it needs to be builded using t
 ```yarn start```
 
 
-### Demo
 
 
